@@ -1,2 +1,2 @@
 # Forest-Depatment-Management-System
-author - Prashant
+<h1>author - Prashant</h1>
